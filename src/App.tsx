@@ -260,7 +260,7 @@ export default function App() {
             <div className="relative w-full max-w-[400px] lg:max-w-lg aspect-square mt-8 lg:mt-0">
               <div className="absolute inset-0 bg-emerald-500/10 rounded-[40px] md:rounded-[60px] rotate-3 -z-10" />
               <img 
-                src="https://i.ibb.co/pBJ05LSL/Chat-GPT-Image-9-de-mai-de-2026-15-20-41.png" 
+                src="https://i.ibb.co/JWtJLpPD/Chat-GPT-Image-9-de-mai-de-2026-15-20-41.webp" 
                 alt="Healthy Desserts" 
                 className="w-full h-full object-cover rounded-[35px] md:rounded-[55px] shadow-2xl"
               />
